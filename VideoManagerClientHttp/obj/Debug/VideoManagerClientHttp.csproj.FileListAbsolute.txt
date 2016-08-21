@@ -1,0 +1,11 @@
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\bin\Debug\VideoManagerClientHttp.exe.config
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\bin\Debug\VideoManagerClientHttp.exe
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\bin\Debug\VideoManagerClientHttp.pdb
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\obj\Debug\VideoManagerClientHttp.csprojResolveAssemblyReference.cache
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\obj\Debug\VideoManagerClientHttp.Properties.Resources.resources
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\obj\Debug\VideoManagerClientHttp.csproj.GenerateResource.Cache
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\obj\Debug\VideoManagerClientHttp.exe
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\obj\Debug\VideoManagerClientHttp.pdb
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\bin\Debug\Newtonsoft.Json.dll
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\bin\Debug\Newtonsoft.Json.xml
+c:\users\mati\documents\visual studio 2015\Projects\VideoManagerClientHttp\VideoManagerClientHttp\obj\Debug\VideoManagerClientHttp.Form1.resources
